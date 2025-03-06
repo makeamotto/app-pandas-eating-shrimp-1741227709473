@@ -1,2 +1,3 @@
-# app-pandas-eating-shrimp-1741227709473
+# pandas eating shrimp
+
 A simulated scene in threejs of pandas eating shrimp
